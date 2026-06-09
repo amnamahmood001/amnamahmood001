@@ -58,5 +58,3 @@ Bayesian MMM to attribute revenue across paid channels. Built with PyMC and Roby
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amnamahmood1-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amnamahmood1/)
 
 ---
-
-*Open to full-time roles in analytics, data science, and strategy/operations. H-1B sponsorship required.*
